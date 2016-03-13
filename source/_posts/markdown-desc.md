@@ -1,7 +1,7 @@
 ---
 title: MarkDown 标记语法简介
 date: 2014-05-11 17:21:53
-tags: Markdown markup git
+tags: [Markdown,git]
 category: 杂七杂八
 ---
 

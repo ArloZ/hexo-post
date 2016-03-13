@@ -1,7 +1,7 @@
 ---
 title: 使用 Hexo 轻松搭建博客
 date: 2016-03-07 23:23:34
-tags: config blog tool
+tags: [config,blog,tool]
 category: 杂七杂八
 ---
 

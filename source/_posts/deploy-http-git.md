@@ -1,8 +1,8 @@
 ---
 title:  "部署HTTP服务的git"
 date:   2014-05-16 17:21:53
-category: install&configure
-tags: git apache nginx
+category: 杂七杂八
+tags: [git,apache,nginx]
 ---
 
 最近使用git的频率不断增加，需要与人共享git工程，如果使用原生的git协议进行访问的话不是特别方便，因此着手通过部署HTTP服务来实现git的管理，一些配置如下介绍。

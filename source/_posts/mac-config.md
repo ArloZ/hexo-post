@@ -1,8 +1,8 @@
 ---
 title: 'Mac开发环境配置'
 date: 2015-09-08 22:40:19
-category: config
-tags: config mac
+category: 杂七杂八
+tags: [config,mac]
 ---
 
 主要用于记录一些MAC上的个人的开发环境及工具的配置，留着以后备用,避免每次都去google.

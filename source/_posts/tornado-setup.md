@@ -1,8 +1,8 @@
 ---
 title: 'Tornado搭建stepByStep'
 date: 2015-07-25 11:01:30
-category: install&configure
-tags: tornado
+category: tornado
+tags: [tornado]
 ---
 
 由于需要在本地搭建一个轻量级的web服务，用来提供一些Web页面小工具，最近工作一直使用java，但是又不想落下Python，所以选择Tornado来进行这个小工具页面的服务的开发，至少保持不对Python生疏。下面进入正题，StepByStep的搭建一个Tornado服务，详情参见[官方文档](http://www.tornadoweb.org/en/stable/)。

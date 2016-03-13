@@ -1,11 +1,13 @@
 ---
 title: velocity模板渲染之变量替换
 date: 2016-03-09 11:53:49
-tags: velocity spring
+tags: [velocity,spring]
 category: spring
 ---
 
 velocity是在`spring mvc`中，使用十分普遍的一种模板渲染引擎，
+<!--more-->
+
 
 ### 现象
 * VelocityView配置`allowSessionOverride`和`allowRequestOverride`均为默认的false，即不把session和request中的属性同model中数据做合并。

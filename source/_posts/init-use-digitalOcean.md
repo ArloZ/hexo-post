@@ -1,8 +1,8 @@
 ---
 title: '使用DigitalOcean搭建PPTPD的VPN服务'
 date: 2015-01-10 19:23:45
-category: install&configure
-tags: DigitalOcean VPN VPS PPTPD
+category: 杂七杂八
+tags: [DigitalOcean,VPN,VPS,PPTPD]
 ---
 
 要自己搭建独立的VPN服务实现翻墙，首先需要有能够访问国外VPS，然后在VPS中安装VPN软件即可。

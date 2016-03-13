@@ -2,7 +2,7 @@
 title: '链表、栈与队列'
 date: 2014-09-14 22:46:18
 category: 数据结构与算法
-tags: Data-Structures C++
+tags: [Data-Structures,C++]
 ---
 
 在程序设计中，有几种特别基础而且应用十分广泛的数据结构：链表、栈、队列，

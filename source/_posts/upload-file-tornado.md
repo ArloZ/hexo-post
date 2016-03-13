@@ -2,7 +2,7 @@
 title: tornado+nginx上传视频文件
 date: 2014-06-27 17:04:36
 category: tornado
-tags: tornado upload-file jquery
+tags: [tornado,upload-file,jquery]
 ---
 
 由于tornado通过表达上传的数据最大限制在100M，所以如果需要上传视屏文件的情况在需要通过其他方式实现，
