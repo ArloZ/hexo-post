@@ -1,8 +1,8 @@
 ---
 title: Java虚拟机--内存管理
-tags: []
+tags: [java,gc]
 date: 2016-04-10 23:17:04
-categories:
+categories: java
 ---
 
 最近在阅读<深入理解Java虚拟机-Java高级特性与最佳实践>一书，对一些概要性的东西做一下记录，也算是一个简单的读书笔记吧。
