@@ -1,5 +1,5 @@
 ---
-title: jvm-compile
+title: Java虚拟机--编译与优化
 tags: [java,optimize,compile]
 date: 2016-05-01 10:32:20
 categories: java
