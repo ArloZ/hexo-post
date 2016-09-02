@@ -1,3 +1,10 @@
+---
+title: Head First设计模式
+date: 2016-07-07 23:17:04
+tags: [java,设计模式]
+category: java
+---
+
 # Head First设计模式
 
 ### 设计模式
